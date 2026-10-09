@@ -1,0 +1,1 @@
+This file contains DEMO_MALWARE_MARKER for demonstration only.
