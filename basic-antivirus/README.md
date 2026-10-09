@@ -40,15 +40,17 @@ To test manually, add the text `DEMO_MALWARE_MARKER` to a new file in `sample_fi
 
 ```text
 basic-antivirus/
+│
 ├── main.py
 ├── README.md
-├── INTERVIEW_PREP.md
 ├── requirements.txt
-├── .gitignore
 ├── LICENSE
+├── .gitignore
+│
 ├── sample_files/
 │   ├── clean.txt
 │   └── test_marker.txt
+│
 └── tests/
     └── test_scanner.py
 ```
